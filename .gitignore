@@ -1,0 +1,12 @@
+# Node.js backend
+node_modules/
+.env
+uploads/
+
+# React frontend (Vite)
+order-ui/node_modules/
+order-ui/dist/
+
+# OS / Editor
+.DS_Store
+.vscode/
